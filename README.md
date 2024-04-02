@@ -23,7 +23,7 @@ You can install these dependencies using pip:
 Clone this repository to your local machine:
 
 ```bash
-git clone https://github.com/your-username/iris-knn.git
+git clone https://github.com/Rey8el/MachineLearningProjects.git
 
 ## References 
 
